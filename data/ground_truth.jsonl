@@ -1,0 +1,100 @@
+{"question": "Vạch xương cá (vạch 4.4) trên mặt đường có ý nghĩa gì và người lái xe phải xử lý như thế nào khi gặp vạch này?", "relevant_doc_ids": [625976, 156874]}
+{"question": "Khi gặp tín hiệu đèn vàng, người điều khiển phương tiện phải làm gì theo đúng luật?", "relevant_doc_ids": [497606, 736864]}
+{"question": "Trên cầu có được phép quay đầu xe không? Mức phạt cho hành vi này là bao nhiêu?", "relevant_doc_ids": [672005, 798389, 859622, 558344]}
+{"question": "Thế nào là giữ khoảng cách an toàn giữa hai xe? Có quy định cụ thể nào về khoảng cách này theo tốc độ không?", "relevant_doc_ids": [547806, 222066]}
+{"question": "Trong khu dân cư, người lái xe được sử dụng còi như thế nào trong khoảng thời gian từ 22h đêm đến 5h sáng?", "relevant_doc_ids": [136750, 622235]}
+{"question": "Biển báo Hết mọi lệnh cấm (biển số DP.135) có ý nghĩa chính xác là gì? Nó có xóa bỏ hiệu lực của biển báo tốc độ tối đa cho phép không?", "relevant_doc_ids": [642648, 237250]}
+{"question": "Khi điều khiển xe vào đường cao tốc, người lái xe phải tuân thủ những quy tắc nào?", "relevant_doc_ids": [468281, 874071, 787723]}
+{"question": "Xe nào được ưu tiên đi trước tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến?", "relevant_doc_ids": [358021, 118108, 498028]}
+{"question": "Thế nào là hành vi dừng xe và đỗ xe? Phân biệt hai khái niệm này.", "relevant_doc_ids": [819795, 140667, 886548]}
+{"question": "Người lái xe có được phép lùi xe ở khu vực giao cắt đường bộ và đường sắt không?", "relevant_doc_ids": [902408, 859622, 732362]}
+{"question": "Khi thấy xe cảnh sát giao thông (CSGT) phát tín hiệu ưu tiên, người tham gia giao thông phải làm gì?", "relevant_doc_ids": [614657, 246595, 980788]}
+{"question": "Biển báo hình tam giác viền đỏ, nền vàng có ý nghĩa chung là gì?", "relevant_doc_ids": [208235, 774914, 446324]}
+{"question": "Xe kéo rơ-moóc có được phép đi vào làn đường dành cho xe máy không?", "relevant_doc_ids": [735619, 573959, 117625]}
+{"question": "Khi tầm nhìn bị hạn chế bởi sương mù hoặc thời tiết xấu, người lái xe ô tô phải bật loại đèn nào? Đèn chiếu xa (đèn pha) hay đèn chiếu gần (đèn cốt)?", "relevant_doc_ids": [497606, 549677]}
+{"question": "Thứ tự ưu tiên của các loại báo hiệu đường bộ là gì (ví dụ: giữa tín hiệu của người điều khiển giao thông và tín hiệu đèn)?", "relevant_doc_ids": [392780, 866611]}
+{"question": "Đường ưu tiên là gì? Làm sao để nhận biết đó là đường ưu tiên?", "relevant_doc_ids": [370352, 974616, 647092]}
+{"question": "Việc bấm còi liên tục, inh ỏi trong đô thị bị xử phạt như thế nào?", "relevant_doc_ids": [558344, 709640]}
+{"question": "Khi đi qua hầm đường bộ, người lái xe cần tuân thủ những quy định đặc biệt nào?", "relevant_doc_ids": [536782, 833481, 787723]}
+{"question": "Người đi bộ có được đi qua đường cao tốc không?", "relevant_doc_ids": [574924, 980155, 536782]}
+{"question": "Ý nghĩa của vạch kẻ đường nét liền màu vàng và vạch nét đứt màu vàng là gì?", "relevant_doc_ids": [628875, 736864, 617585]}
+{"question": "Mức phạt tối đa đối với người điều khiển xe ô tô có nồng độ cồn trong máu là bao nhiêu?", "relevant_doc_ids": [307695, 469362, 952897]}
+{"question": "Người đi xe đạp có bị kiểm tra nồng độ cồn không? Nếu có, mức phạt là bao nhiêu?", "relevant_doc_ids": [241323, 185810, 549969]}
+{"question": "Sau khi bị tước giấy phép lái xe (GPLX) do vi phạm nồng độ cồn, tôi cần làm gì để được cấp lại?", "relevant_doc_ids": [409744, 905946, 375805]}
+{"question": "CSGT có quyền yêu cầu dừng xe để kiểm tra nồng độ cồn một cách ngẫu nhiên không, hay cần có dấu hiệu vi phạm trước?", "relevant_doc_ids": [901200, 549969, 477637]}
+{"question": "Nếu tôi từ chối yêu cầu kiểm tra nồng độ cồn của CSGT thì sẽ bị xử lý như thế nào?", "relevant_doc_ids": [549969, 205739, 372403]}
+{"question": "Mức nồng độ cồn nào được coi là kịch khung đối với người lái xe máy? Hình phạt bổ sung là gì?", "relevant_doc_ids": [249653, 307695, 308888]}
+{"question": "So sánh mức phạt nồng độ cồn giữa người lái xe ô tô và người lái xe máy.", "relevant_doc_ids": [307695, 280289, 952897]}
+{"question": "Một người say rượu dắt xe máy đi trên đường thì có bị coi là vi phạm luật giao thông không?", "relevant_doc_ids": [360630, 149507, 830574]}
+{"question": "Điều khiển xe máy mà trong cơ thể có chất ma túy thì bị phạt bao nhiêu tiền và tước bằng lái bao lâu?", "relevant_doc_ids": [843569, 308888, 148297]}
+{"question": "Nếu gây tai nạn giao thông sau khi uống rượu bia, người lái xe sẽ phải đối mặt với những trách nhiệm pháp lý nào?", "relevant_doc_ids": [516228, 762138, 743277]}
+{"question": "Tốc độ tối đa cho phép trong khu vực đông dân cư đối với xe máy và ô tô con là bao nhiêu (trừ khi có biển báo khác)?", "relevant_doc_ids": [212407, 965058, 622235]}
+{"question": "Mức phạt khi xe ô tô chạy quá tốc độ 25 km/h trên đường cao tốc là bao nhiêu?", "relevant_doc_ids": [427088, 469362, 297753]}
+{"question": "Tôi có được phép vượt xe bên phải trong trường hợp nào?", "relevant_doc_ids": [751550, 866244, 900000]}
+{"question": "Lỗi điều khiển xe chạy quá tốc độ quy định không gắn biển báo hiệu hạn chế tốc độ của xe máy chuyên dùng bị phạt thế nào?", "relevant_doc_ids": [427088, 771413, 585458]}
+{"question": "Vượt xe tại nơi có vạch kẻ đường liền (vạch 2.1) bị xử phạt ra sao?", "relevant_doc_ids": [713772, 923421, 558198]}
+{"question": "Xe ô tô chạy dưới tốc độ tối thiểu trên đường cao tốc bị phạt không?", "relevant_doc_ids": [585458, 297753, 349362]}
+{"question": "Khi muốn vượt xe, tôi phải ra tín hiệu báo trước như thế nào cho đúng luật?", "relevant_doc_ids": [640957, 751550, 231744]}
+{"question": "Mức phạt đối với hành vi đua xe trái phép là gì?", "relevant_doc_ids": [328842, 900509, 172751]}
+{"question": "Xe máy chạy vào đường cao tốc bị phạt bao nhiêu tiền?", "relevant_doc_ids": [585458, 999289, 308730]}
+{"question": "Lỗi không giữ khoảng cách an toàn để xảy ra va chạm với xe chạy liền trước bị xử phạt như thế nào đối với ô tô?", "relevant_doc_ids": [778873, 547806, 975722]}
+{"question": "Đỗ xe ô tô ngược chiều với chiều lưu thông của làn đường bị phạt bao nhiêu?", "relevant_doc_ids": [272258, 258077, 459185]}
+{"question": "Tôi đỗ xe ở nơi có biển cấm đỗ nhưng không có biển cấm dừng, tôi chỉ vào mua đồ 2 phút và vẫn ngồi trên xe. Trường hợp này có bị phạt không?", "relevant_doc_ids": [819795, 886548, 859622]}
+{"question": "Mức phạt lỗi không xi nhan khi chuyển làn đối với ô tô là bao nhiêu?", "relevant_doc_ids": [408383, 189434, 539394]}
+{"question": "Đỗ xe che khuất biển báo hiệu đường bộ bị xử phạt như thế nào?", "relevant_doc_ids": [557547, 627808, 292046]}
+{"question": "Đi sai làn đường trên cầu bị phạt bao nhiêu tiền đối với xe máy?", "relevant_doc_ids": [999289, 312206, 279616]}
+{"question": "Dừng xe ô tô trên phần đường dành cho người đi bộ qua đường bị phạt bao nhiêu?", "relevant_doc_ids": [585458, 866659, 587998]}
+{"question": "Xe ô tô được phép dừng cách vỉa hè bao nhiêu cm là đúng quy định?", "relevant_doc_ids": [227694, 660883, 366401]}
+{"question": "Tôi đang đi trên đường một chiều có 3 làn. Làn bên phải cho phép rẽ phải khi đèn đỏ. Nếu tôi đi thẳng ở làn này khi đèn đang đỏ thì có bị phạt lỗi vượt đèn đỏ hay lỗi đi sai làn đường?", "relevant_doc_ids": [272258, 900000, 416403]}
+{"question": "Đỗ xe ô tô chiếm một phần đường xe chạy mà không đặt báo hiệu nguy hiểm bị phạt không?", "relevant_doc_ids": [709640, 406706, 492095]}
+{"question": "Xe máy đi vào làn đường dành riêng cho ô tô bị xử phạt như thế nào?", "relevant_doc_ids": [117625, 259326]}
+{"question": "Dừng xe nơi giao nhau giữa đường bộ và đường sắt bị phạt bao nhiêu?", "relevant_doc_ids": [859622, 244423, 576207, 319796]}
+{"question": "Lỗi không tuân thủ hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường và lỗi đi sai làn đường khác nhau như thế nào về mức phạt đối với ô tô?", "relevant_doc_ids": [622472, 621991, 911938]}
+{"question": "Xe ô tô tải có được phép đi vào làn trong cùng bên trái trên đường có nhiều làn không?", "relevant_doc_ids": [117625, 866244, 900000]}
+{"question": "Đỗ xe trên dốc mà không chèn bánh có bị coi là vi phạm không?", "relevant_doc_ids": [819795, 886548, 546620]}
+{"question": "Tôi có được phép đỗ xe song song với một xe khác đang đỗ sát lề đường không?", "relevant_doc_ids": [525455, 819795, 886548]}
+{"question": "Khi tham gia giao thông, người lái xe máy cần mang theo những loại giấy tờ gì?", "relevant_doc_ids": [932051, 923680, 866201]}
+{"question": "Xe ô tô con cá nhân có bắt buộc phải trang bị bình chữa cháy không theo quy định mới nhất?", "relevant_doc_ids": [200147, 533064, 508539]}
+{"question": "Bằng lái xe A1 được phép điều khiển những loại xe nào?", "relevant_doc_ids": [362616, 292658, 334411]}
+{"question": "Lỗi không có hoặc không mang theo Giấy chứng nhận bảo hiểm trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực bị phạt bao nhiêu?", "relevant_doc_ids": [878240, 929150, 371621]}
+{"question": "Thời hạn đăng kiểm lần đầu đối với xe ô tô chở người đến 9 chỗ không kinh doanh vận tải là bao lâu?", "relevant_doc_ids": [677820, 715347, 538089]}
+{"question": "Lắp thêm đèn trợ sáng cho xe máy có bị coi là thay đổi kết cấu xe và bị phạt không?", "relevant_doc_ids": [382467, 593403, 431755]}
+{"question": "Gương chiếu hậu của xe máy phải đáp ứng những tiêu chuẩn nào để không bị phạt?", "relevant_doc_ids": [846468, 659631, 448145]}
+{"question": "Xe hết hạn đăng kiểm mà vẫn lưu thông trên đường bị xử phạt như thế nào?", "relevant_doc_ids": [338651, 523521, 739484]}
+{"question": "Tôi có GPLX ô tô hạng B2 thì có được lái xe tải 1 tấn không?", "relevant_doc_ids": [592533, 144691, 362616]}
+{"question": "Sử dụng Giấy phép lái xe quốc tế (IDP) do Việt Nam cấp để lái xe tại Việt Nam có được không?", "relevant_doc_ids": [950045, 785455, 934664]}
+{"question": "Trẻ em bao nhiêu tuổi thì được đi xe đạp điện mà không cần bằng lái?", "relevant_doc_ids": [977213, 599495, 111442]}
+{"question": "Độ pô xe máy để phát ra tiếng nổ to hơn bị xử phạt ra sao?", "relevant_doc_ids": [443838, 299836, 305449]}
+{"question": "Bằng lái xe B1 số tự động có được phép lái xe số sàn không?", "relevant_doc_ids": [592533, 362616, 843033]}
+{"question": "Tôi làm mất bằng lái xe A1, thủ tục xin cấp lại như thế nào?", "relevant_doc_ids": [174741, 156798, 667768]}
+{"question": "Xe ô tô không có cần gạt nước hoặc có nhưng không hoạt động khi trời mưa sẽ bị phạt không?", "relevant_doc_ids": [181031, 803691, 225235]}
+{"question": "Một người lái xe máy chở một người lớn và một trẻ em 6 tuổi. Trường hợp này có vi phạm lỗi chở quá số người quy định không?", "relevant_doc_ids": [317335, 607835, 977213]}
+{"question": "Vượt đèn vàng khi đèn đã chuyển sang đỏ trong tích tắc thì bị phạt lỗi vượt đèn vàng hay đèn đỏ?", "relevant_doc_ids": [736864, 911938, 868952]}
+{"question": "Người ngồi sau xe máy sử dụng điện thoại có bị phạt không? Ai là người chịu phạt, người lái hay người ngồi sau?", "relevant_doc_ids": [365787, 451552, 179072]}
+{"question": "Tôi lái xe ô tô và bị CSGT yêu cầu dừng xe kiểm tra. Tôi có quyền yêu cầu xem chuyên đề kiểm tra của tổ công tác không?", "relevant_doc_ids": [234792, 769809, 998016]}
+{"question": "Khi xảy ra va chạm giao thông nhẹ, không có thiệt hại về người, các bên cần xử lý như thế nào? Có bắt buộc phải gọi CSGT không?", "relevant_doc_ids": [599756, 207876, 739096]}
+{"question": "Xe cứu thương đang hú còi ưu tiên nhưng đi ngược chiều vào đường một chiều. Hành vi này có hợp pháp không?", "relevant_doc_ids": [452082, 614657, 615428]}
+{"question": "Tôi lái xe máy chở một kiện hàng cồng kềnh vượt quá giá đèo hàng. Mức phạt cho lỗi này là bao nhiêu?", "relevant_doc_ids": [614126, 214507, 273796]}
+{"question": "Người đi bộ đi qua đường không đúng nơi quy định (không đi trên vạch kẻ đường) bị phạt bao nhiêu tiền?", "relevant_doc_ids": [587998, 871714, 866659]}
+{"question": "CSGT có được phép núp ở chỗ khuất để bắn tốc độ không?", "relevant_doc_ids": [585458, 659631, 230770]}
+{"question": "Tôi bị lập biên bản vi phạm hành chính, nhưng tôi không đồng ý với lỗi đó. Tôi cần làm gì?", "relevant_doc_ids": [354614, 628375, 112185]}
+{"question": "Xe gắn máy (phân khối dưới 50cc) có cần đăng ký và biển số không?", "relevant_doc_ids": [796892, 102559, 461608]}
+{"question": "Đội mũ bảo hiểm không cài quai đúng quy cách bị phạt bao nhiêu?", "relevant_doc_ids": [628816, 534444, 185810]}
+{"question": "Tôi có được phép quay phim, ghi hình quá trình làm việc của CSGT không?", "relevant_doc_ids": [181552, 663089, 948360]}
+{"question": "Một người dắt xe máy qua đường ở vạch kẻ dành cho người đi bộ có được xem là người đi bộ không?", "relevant_doc_ids": [866659, 536782, 599495]}
+{"question": "Xe taxi dừng đón khách ở nơi có biển cấm dừng, đỗ bị phạt nặng hơn xe cá nhân như thế nào?", "relevant_doc_ids": [140667, 819795, 886548]}
+{"question": "Lỗi đi xe máy bốc đầu (đi bằng một bánh) bị xử phạt ra sao?", "relevant_doc_ids": [451552, 179072, 312206]}
+{"question": "Tôi bị phạt nguội qua camera giám sát, thủ tục xử lý như thế nào?", "relevant_doc_ids": [297354, 204439, 910787]}
+{"question": "Xe ô tô có được lắp thêm cản trước, cản sau (bằng kim loại) không?", "relevant_doc_ids": [385162, 751550, 100610]}
+{"question": "Trẻ em 13 tuổi đi xe đạp điện có cần đội mũ bảo hiểm không?", "relevant_doc_ids": [626724, 977213, 185810]}
+{"question": "Đi xe đạp dàn hàng ngang từ 3 xe trở lên bị phạt bao nhiêu?", "relevant_doc_ids": [865271, 758815, 697607]}
+{"question": "Tôi thấy một vụ tai nạn giao thông và người gây tai nạn bỏ chạy. Tôi có trách nhiệm gì trong trường hợp này?", "relevant_doc_ids": [743277, 566701, 563540]}
+{"question": "Khi mua bán xe cũ, trong bao lâu tôi phải làm thủ tục sang tên đổi chủ?", "relevant_doc_ids": [813493, 651839, 841252]}
+{"question": "Xe tập lái có những quy định riêng nào khi tham gia giao thông?", "relevant_doc_ids": [640207, 866201, 222990]}
+{"question": "Tôi có được dán decal quảng cáo kín xe ô tô của mình không?", "relevant_doc_ids": [116041, 367283, 304781]}
+{"question": "Trong trường hợp nào thì CSGT được quyền tạm giữ phương tiện của người vi phạm?", "relevant_doc_ids": [265546, 692137, 339763]}
+{"question": "Một người vừa lái xe máy vừa dắt theo một con chó chạy bên cạnh có vi phạm không?", "relevant_doc_ids": [697607, 111182, 768139]}
+{"question": "Mức phạt cho hành vi dùng chân để điều khiển xe máy là bao nhiêu?", "relevant_doc_ids": [349964, 824277, 213205]}
+{"question": "Hiệu lực của biên bản vi phạm hành chính là bao lâu? Sau bao lâu nếu tôi không nộp phạt thì sẽ bị xử lý?", "relevant_doc_ids": [470254, 338651, 836211]}
+{"question": "Tôi cho bạn mượn xe và bạn đó vi phạm giao thông (ví dụ: vượt đèn đỏ). Ai sẽ là người chịu trách nhiệm nộp phạt?", "relevant_doc_ids": [450619, 555057, 618400]}
+{"question": "Xe công nông, xe tự chế có được phép tham gia giao thông trên quốc lộ không? Mức phạt là gì?", "relevant_doc_ids": [157268, 287447, 373364]}
