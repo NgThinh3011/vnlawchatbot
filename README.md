@@ -43,7 +43,7 @@ Cụ thể:
      - **Semantic search** để tìm kiếm theo ngữ nghĩa.
 
 4. **Sinh câu trả lời (Generation)**:  
-   - Sử dụng mô hình GPT-4o để kết hợp đoạn văn truy xuất và sinh câu trả lời.  
+   - Sử dụng mô hình GPT-o3 để kết hợp đoạn văn truy xuất và sinh câu trả lời.  
    - Áp dụng **chain-of-thought prompting** để mô hình lý luận từng bước trước khi đưa ra kết luận cuối cùng.
 
 ---
